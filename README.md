@@ -1,1 +1,17 @@
-# hallo may name is ali 
+#hallo may name is ali
+
+hobbies: playing guitar , skateboarding , gaming
+
+
+
+
+
+
+
+
+
+
+
+
+
+
